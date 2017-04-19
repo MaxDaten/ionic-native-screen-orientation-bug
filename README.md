@@ -21,3 +21,8 @@ Error:
 ```js
 TypeError: undefined is not an object (evaluating 'util_1.get(window, pluginObj.pluginRef)[methodName].apply')
 ```
+
+Tested on:
+
+- iOS 8.3
+- iOS 10.3
